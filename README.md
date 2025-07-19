@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Researcherr-%23FFD700?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/Flutter%20Developer-Blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Graphic%20Designer-Purple?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Flutter%20Developer-%3D74B6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Graphic%20Designer-%0A400C?style=for-the-badge" />
  
 </p>
 
