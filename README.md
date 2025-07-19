@@ -4,8 +4,10 @@
 <h3 align="center">🚀 Flutter Developer | 🧠 AI Researcher | 🔧 Full-Stack App Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Developer-%23FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Expert-Flutter-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Researcherr-%23FFD700?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Flutter%20Developer-Blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Graphic%20Designer-Purple?style=for-the-badge" />
+ 
 </p>
 
 ---
