@@ -1,11 +1,10 @@
 <!-- Banner -->
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/cyber_security_vs_software_engineering.jpg" alt="Banner" width="100%"/>
 
 <h1 align="center">Hey, I'm Muhammad Khuzaifa Azam 👋</h1>
 <h3 align="center">🚀 Flutter Developer | 🧠 AI Researcher | 🔧 Full-Stack App Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenSource-💚-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSource-❤️-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Developer-%23FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile%20Expert-Flutter-blue?style=for-the-badge" />
 </p>
@@ -23,12 +22,33 @@
 ---
 
 ## 📌 Projects & Products
-- 📱 **Hisab Kitab App** – Daily expense, grocery & loan tracker
-- 💘 **Love Tester App** – Fun love percentage calculator
-- 📝 **Quote Verse App** – Beautiful quotes with custom fonts & graphics
-- 💹 **FXNN Trading App** – Real-time trading platform (end-to-end)
-- 💼 **Rockrand Wallet** – Secure fund management with biometrics
 
+- 📱 **Hisab Kitab App**  
+  Smart daily expense, grocery, and loan tracker with PDF report generation and category-wise summaries.
+
+- 💘 **Love Tester App**  
+  Interactive compatibility calculator with shareable results and engaging UI for entertainment.
+
+- 📝 **Quote Verse App**  
+  Quote collection app with custom design tools to share and personalize motivational content.
+
+- 💹 **FXNN Trading App**  
+  Full-featured trading platform built in Flutter with real-time data, API integration, and portfolio management.
+
+- 💼 **Rockrand Wallet**  
+  Secure wallet app for traders with biometric authentication and transaction history features.
+
+- 🛍️ **Amanah Marketplace**  
+  An AI-powered multi-vendor marketplace for seamless product discovery, user management, and order tracking.
+
+- 🎨 **Artspire-Digita**  
+  Digital art generation platform using AI models to create custom art, illustrations, and concept visuals.
+
+- 🎮 **PK Matchz**  
+  Live streaming + PK Battle app with multi-host support, real-time interactions, and Firebase+Agora backend.
+
+- 🎧 **Feel Pro**  
+  AI-based wellness and mood assistant app with motivational quotes, voice chat, and survey-based personalization.
 ---
 
 ## 🌐 Connect With Me:
