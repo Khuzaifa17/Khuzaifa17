@@ -101,7 +101,3 @@
 > 🚀 I empower ideas with creativity, clarity, and execution.
 
 ---
-
-Would you like me to save this as a `.md` file for you to upload directly on GitHub?
-
-Also, provide your LinkedIn link and portfolio URL (if ready), so I can plug it in properly.
